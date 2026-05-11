@@ -1,0 +1,14 @@
+body{
+    margin:0 auto;
+    width: 900px;
+    border:1px solid blue;
+}
+
+#secId{
+    background-color: aquamarine;
+}
+
+#secId h2{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color:chartreuse;
+}
